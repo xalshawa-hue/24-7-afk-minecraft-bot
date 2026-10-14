@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "node-de-free-01.tickhosting.com",
+    "ip": "node-de-free-01.tickhostingcom",
     "port": 50144,
     "version": "1.20.1",
     "try-creative": false
