@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "marwannn",
+    "username": "bluestone",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "node-de-free-01.tickhosting.com",
     "port": 50144,
-    "version": "1.20.1",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
