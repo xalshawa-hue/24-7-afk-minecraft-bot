@@ -8,7 +8,7 @@
   "server": {
     "ip": "alg.halix.gg",
     "port": 19130,
-    "version": "26.3",
+    "version": "1.21.0",
     "try-creative": false
   },
   "position": {
